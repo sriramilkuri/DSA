@@ -1,0 +1,6 @@
+# Build files
+*.exe
+
+# VS Code
+.vscode/
+*.code-workspace
